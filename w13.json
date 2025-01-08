@@ -1,0 +1,134 @@
+{
+    "values": [
+        2.0870633199589883,
+        0.6641248995794873,
+        2.425983851530215,
+        2.476231126688658,
+        2.4604459990489715,
+        2.769225075913683,
+        2.307633172326803,
+        2.0961480830013617,
+        2.45793083898122,
+        2.713494599469211,
+        6.535104121962049,
+        4.939430616952141,
+        12.902968107879353
+    ],
+    "score": 0.07734517252229454,
+    "accuracy": 0.6143,
+    "stats": {
+        "wars": 17440257,
+        "fights": 295078858,
+        "wins": [
+            500665,
+            499335
+        ],
+        "predictableWins": 0,
+        "shuffles": 38793811,
+        "games": 1000000,
+        "strengthHistogram": [
+            {
+                "count": 2,
+                "fights": 85,
+                "wars": 7,
+                "shuffles": 14,
+                "averageFights": 42.5,
+                "averageWars": 3.5,
+                "averageShuffles": 7
+            },
+            {
+                "count": 87,
+                "fights": 10753,
+                "wars": 600,
+                "shuffles": 1576,
+                "averageFights": 123.59770114942529,
+                "averageWars": 6.896551724137931,
+                "averageShuffles": 18.114942528735632
+            },
+            {
+                "count": 1477,
+                "fights": 252291,
+                "wars": 14439,
+                "shuffles": 36507,
+                "averageFights": 170.813134732566,
+                "averageWars": 9.775897088693297,
+                "averageShuffles": 24.716993906567367
+            },
+            {
+                "count": 8965,
+                "fights": 1757722,
+                "wars": 101684,
+                "shuffles": 245136,
+                "averageFights": 196.0649191299498,
+                "averageWars": 11.342331288343559,
+                "averageShuffles": 27.34366982710541
+            },
+            {
+                "count": 28793,
+                "fights": 6520530,
+                "wars": 380036,
+                "shuffles": 890701,
+                "averageFights": 226.46233459521412,
+                "averageWars": 13.198902511026986,
+                "averageShuffles": 30.934636890910987
+            },
+            {
+                "count": 64239,
+                "fights": 16299294,
+                "wars": 952714,
+                "shuffles": 2193417,
+                "averageFights": 253.72894970345118,
+                "averageWars": 14.830772583632996,
+                "averageShuffles": 34.14463176574978
+            },
+            {
+                "count": 124524,
+                "fights": 34485815,
+                "wars": 2030324,
+                "shuffles": 4578367,
+                "averageFights": 276.94111175355755,
+                "averageWars": 16.304680222286468,
+                "averageShuffles": 36.76694452475025
+            },
+            {
+                "count": 200275,
+                "fights": 58773727,
+                "wars": 3476783,
+                "shuffles": 7734832,
+                "averageFights": 293.4651204593684,
+                "averageWars": 17.36004493820996,
+                "averageShuffles": 38.62105604793409
+            },
+            {
+                "count": 261983,
+                "fights": 80216700,
+                "wars": 4744754,
+                "shuffles": 10489397,
+                "averageFights": 306.190478008115,
+                "averageWars": 18.110923227843028,
+                "averageShuffles": 40.038464327838064
+            },
+            {
+                "count": 309647,
+                "fights": 96760294,
+                "wars": 5738818,
+                "shuffles": 12623656,
+                "averageFights": 312.4858112625021,
+                "averageWars": 18.533420314099605,
+                "averageShuffles": 40.76789376289775
+            },
+            {
+                "count": 8,
+                "fights": 1647,
+                "wars": 98,
+                "shuffles": 208,
+                "averageFights": 205.875,
+                "averageWars": 12.25,
+                "averageShuffles": 26
+            }
+        ],
+        "averageFights": 295.078858,
+        "averageWars": 17.440257,
+        "averageShuffles": 38.793811
+    }
+}
